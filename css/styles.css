@@ -1,0 +1,23 @@
+header, 
+section {
+  border: 1px solid;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.title {
+  font-family: 'Releway', sans-serif;
+}
+
+
+.header {
+  background-color: black;
+  color: white;
+}
+.header a {
+  color: var(--orange);
+}
+.hero-btn {
+  border: none;
+  background: transparent;
+}
